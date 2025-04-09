@@ -1,0 +1,11 @@
+langgraph
+langgraph-prebuilt
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langchain-community
+langchain-core
+langchain-openai
+fastapi
+uvicorn
+langserve
+beautifulsoup4
